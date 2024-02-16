@@ -6,4 +6,4 @@ Mon agence basée à Toulouse est concerné que par les silots Commercial et Op�
 On utilise un logiciel de ticketing propre à l'entreprise qui se nomme GPI.
 C'est une application en cloud accessible directement depuis une URL.
 
-
+Pour les processus je n'en ai aucune idée.
